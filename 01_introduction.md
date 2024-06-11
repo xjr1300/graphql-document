@@ -1,5 +1,9 @@
 # GraphQLの紹介
 
+<https://graphql.org/learn/>
+
+- [GraphQLの紹介](#graphqlの紹介)
+
 > GraphQLについて学び、どのように機能して、どのように使用するかを学びましょう。
 > GraphQLサービスを構築する方法を記述したドキュメントを探していますか？
 > [多くの異なる言語](https://graphql.org/code/)でGraphQLの実装を支援するライブラリがあります。
