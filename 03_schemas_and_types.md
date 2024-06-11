@@ -406,7 +406,7 @@ type Droid implements Character {
 }
 ```
 
-これらの型両方が`Character`インターフェイスのフィールドをすべて持っていることを確認できますが、`totalCredits`、`startships`そして`primaryFunction`の追加フィールドを導入して、それらはキャラクターに固有なものです。
+これらの型両方が`Character`インターフェイスのフィールドをすべて持っていることを確認できますが、`totalCredits`、`starships`そして`primaryFunction`の追加フィールドを導入して、それらはキャラクターに固有なものです。
 
 インターフェイスは、異なる型になるオブジェクトまたはオブジェクトの集合を返したいときに便利です。
 
